@@ -1,0 +1,14 @@
+# Rinquest
+
+> Rinquest is a UK platform that connects grassroots players, parents, teams and coaches across football, cricket, rugby and hockey through profiles, smart matching and direct messaging. Free to join for players and teams.
+
+## Key pages
+- [For players](https://rinquest.com/for-players/): build a profile and get discovered
+- [For parents](https://rinquest.com/for-parents/): create and manage a profile for your child
+- [For teams](https://rinquest.com/for-teams/): search players and recruit
+- [Pricing](https://rinquest.com/pricing/): Starter (free), Recruit, Club, Premium Club
+- [FAQs](https://rinquest.com/faq/)
+- [Insights](https://rinquest.com/insights/): recruitment and getting-noticed guides
+
+## Company
+Rinquest Ltd, company number 17024691, Ranmore House, Hook Heath Road, Woking, GU22 0DT, UK
